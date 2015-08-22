@@ -1,0 +1,1 @@
+This repository stores pre-compiled IgBlast binaries for v1.4.0
